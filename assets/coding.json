@@ -1,0 +1,68 @@
+[
+    {
+        "1": "Hyperlinks can be used in text and images both",
+        "2": "A zero value is considered to be false and a non-zero value is considered to be true",
+        "3": "An inline element starts on a new line",
+        "4": "In RGBA, A(Alpha) specifies the saturation",
+        "5": "HTML is case-sensitive",
+        "6": "The cd command changes directories",
+        "7": "Functions can return multiple values at a time",
+        "8": "Functions can be called only by reference",
+        "9": "Full form of HTML is Hyper Text Markup Language",
+        "10": "Python function always returns a value"
+    },
+    {
+        "1": {
+            "a": "True",
+            "b": "False"
+        },
+        "2": {
+            "a": "True",
+            "b": "False"
+        },
+        "3": {
+            "a": "True",
+            "b": "False"
+        },
+        "4": {
+            "a": "True",
+            "b": "False"
+        },
+        "5": {
+            "a": "True",
+            "b": "False"
+        },
+        "6": {
+            "a": "True",
+            "b": "False"
+        },
+        "7": {
+            "a": "True",
+            "b": "False"
+        },
+        "8": {
+            "a": "True",
+            "b": "False"
+        },
+        "9": {
+            "a": "True",
+            "b": "False"
+        },
+        "10": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "1": "a",
+        "2": "b",
+        "3": "b",
+        "4": "a",
+        "5": "a",
+        "6": "a",
+        "7": "b",
+        "8": "b",
+        "9": "a",
+        "10": "b"
+    }
+]

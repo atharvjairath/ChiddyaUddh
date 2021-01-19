@@ -1,0 +1,68 @@
+[
+    {
+        "1": "Tiger is the national animal of India",
+        "2": "The principal festival of Kerala is Onam",
+        "3": "The Gateway of India is located in Delhi",
+        "4": "The census of India is after every 9 years",
+        "5": "The capital city of Tamil Nadu is Hyderabad",
+        "6": "Hockey is the national sport of India",
+        "7": "The principal festival of Kerala is Onam",
+        "8": "The Taj Mahal is located in Agra",
+        "9": "Narendra Modi is the President of India",
+        "10": "The capital city of Maharashtra is Mumbai"
+    },
+    {
+        "1": {
+            "a": "True",
+            "b": "False"
+        },
+        "2": {
+            "a": "True",
+            "b": "False"
+        },
+        "3": {
+            "a": "True",
+            "b": "False"
+        },
+        "4": {
+            "a": "True",
+            "b": "False"
+        },
+        "5": {
+            "a": "True",
+            "b": "False"
+        },
+        "6": {
+            "a": "True",
+            "b": "False"
+        },
+        "7": {
+            "a": "True",
+            "b": "False"
+        },
+        "8": {
+            "a": "True",
+            "b": "False"
+        },
+        "9": {
+            "a": "True",
+            "b": "False"
+        },
+        "10": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "1": "a",
+        "2": "a",
+        "3": "b",
+        "4": "b",
+        "5": "b",
+        "6": "a",
+        "7": "a",
+        "8": "a",
+        "9": "b",
+        "10": "a"
+    }
+]
